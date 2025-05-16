@@ -1,20 +1,25 @@
-# Conversor de Moedas
+# Conversor de Moedas 💱
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/danicarius/ConversorDeMoedas?style=for-the-badge)
 
-Este projeto em Java realiza conversão de moedas com dados em tempo real, utilizando a API [ExchangeRate-API](https://www.exchangerate-api.com/).
+---
 
-## Funcionalidades
+Este projeto é um conversor de moedas via console com integração à API [ExchangeRate](https://www.exchangerate-api.com/).  
+Permite conversões em tempo real entre diferentes moedas como Dólar, Real, Euro, entre outras.
 
-- Interface via console
-- 6 opções de conversão (USD, BRL, EUR, GBP)
-- Histórico de conversões exibido em tempo real
-- Uso da biblioteca Gson para desserializar JSON
-- Conversão dinâmica usando API externa
+## 🔧 Funcionalidades
+- Conversão entre 6 pares de moedas
+- Consumo de API em tempo real
+- Interface por console
+- Exibição de resultados formatados
 
-## Badge
- badge para o Java:
-```
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-```
+## 🚀 Tecnologias
+- Java 17
+- GSON
+- IntelliJ IDEA
+- Maven
+
+## 🧪 Exemplo de uso
