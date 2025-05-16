@@ -9,7 +9,8 @@ import java.net.URL;
 
 public class CurrencyConverter {
 
-    private final String API_KEY = "SUA_CHAVE_AQUI"; // Troque pela sua chave
+    private final String API_KEY = e225d599223a829f5adb2186
+
 
     public double convert(String from, String to, double amount) {
         try {
